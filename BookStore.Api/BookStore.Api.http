@@ -12,3 +12,7 @@ GET {{BookStore.Api_HostAddress}}/weatherforecast
 GET {{BookStore.Api_HostAddress}}/api/books/GetAllBooksAsync
 
 ###
+
+GET {{BookStore.Api_HostAddress}}/api/books/GetBookByIdAsync{bb460a25-e17d-4941-a9f7-d4e137fa42e8}
+
+###
